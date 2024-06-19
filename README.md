@@ -1,4 +1,4 @@
-<h1 align="left">Hello 👋, I'm 4starboy</h1>
+<h1 align="left">Hi 👋, I'm 4starboy</h1>
 <h3 align="left">A passionate Full-Stack web developer from Viet Nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4starboy&label=Profile%20views&color=0e75b6&style=flat" alt="4starboy" /> </p>
